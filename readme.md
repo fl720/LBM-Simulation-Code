@@ -20,7 +20,9 @@ Simulation result:
 
 This file will do excatly the same simulation as LBM_cylinder.py as above apart from this time the plotting will be saved as a mp4 file (video clip). 
 
-![simulation video using LBM method](sim_pic/LBM_CYLINDER.mp4 "simulation")
+Simulation result: 
+
+https://user-images.githubusercontent.com/99543089/170788329-e114f3f3-4830-4988-9819-be4e6c542460.mp4
 
 ## LBM_Cavity.py
 
