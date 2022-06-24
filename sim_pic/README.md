@@ -1,3 +1,3 @@
 # sim_pic
 
-Containning simulation pictures for display propouse.
+Folder for simulation pictures and gif.
